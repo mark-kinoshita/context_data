@@ -1,0 +1,6 @@
+Mission Control admins have access to the Mission Control Admin platform. 
+This platform contains all the necessary tools an admin needs for running recreations esport activities. 
+On the dashboard of the platform an admin can find important data that can help them better serve their community. 
+On the activities tab the admin can manager current activities and creat new ones. The admin can see a list of all the activities created. They can add a new activity. On the activity creation screen they follow these steps: Enter the basic details of the activity, select the game, select team settings, schedule settings, entry fee settings, prize settings, and location settings.
+
+Communication is an important part of being a admin. There are multiple ways an admin can communicate with their community. They post an announcement from the communtity page. They can also post an announcement from within an activity. 
